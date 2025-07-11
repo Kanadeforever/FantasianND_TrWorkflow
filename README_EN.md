@@ -1,0 +1,27 @@
+# FANTASIAN Neo Dimension Localization Workflow
+
+<div align="center">
+
+[简体中文](https://github.com/Kanadeforever/FantasianND_TrWorkflow/tree/master/README.md) | ENGLISH
+
+本项目为《FANTASIAN Neo Dimension》的本地化翻译流程梳理。
+为喜欢这个游戏、苦于无法导入导出文本翻译的朋友提供一个参考方案。
+同时本项目亦会在中文化补丁完成后，在Release页面发布中文化补丁，以作为中文补丁的官方载点。
+
+</div>
+
+---
+
+editing..............
+
+---
+## Credits
+
+本项目使用了部分开源项目作为加载本地化文件的载体，向以下项目致以深切的感谢：
+
+ - [UABEAvalonia](https://github.com/nesrak1/UABEA): 用于导入&导出游戏的文本，没有这个项目就不会有本项目；
+ - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader):
+ - [Microsoft Copilot](https://copilot.microsoft.com): 用于实现文本转换工具，并在工具制作后期对其进行除错与深加工；
+ - [寒蝉雲墨黑（字体）](https://github.com/Warren2060/ChillYunmoGothic): 
+ - [江城律动黑（字体）](https://weibo.com/1960937691/JoEPQ01Wq):
+ - [霞鹜文楷 GB（字体）](https://github.com/lxgw/LxgwWenkaiGB): 
