@@ -2,26 +2,37 @@
 
 <div align="center">
 
-[简体中文](https://github.com/Kanadeforever/FantasianND_TrWorkflow/tree/master/README.md) | ENGLISH
+[简体中文](https://github.com/Kanadeforever/FantasianND_TrWorkflow) | ENGLISH
 
-本项目为《FANTASIAN Neo Dimension》的本地化翻译流程梳理。
-为喜欢这个游戏、苦于无法导入导出文本翻译的朋友提供一个参考方案。
-同时本项目亦会在中文化补丁完成后，在Release页面发布中文化补丁，以作为中文补丁的官方载点。
+This project outlines the localization translation workflow for "FANTASIAN Neo Dimension".
+For friends who enjoy this game but struggle with importing and exporting text for translation, here's a reference solution.
+Meanwhile, this project will also release the Chinese localization patch on the Release page after its completion, serving as the official download source for the Chinese patch.
 
 </div>
 
 ---
 
-editing..............
+## Preparing Tools
+
+ - [Fantasian Neo Dimension](https://store.steampowered.com/app/2844850): Game main file;
+ - [UABEAvalonia](https://github.com/nesrak1/UABEA): Unpacking & repacking tool;
+ - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader): File isolation tool (optional but recommended).
 
 ---
+
+## Workflow
+
+For details, refer to [Workflow](https://github.com/Kanadeforever/FantasianND_TrWorkflow/tree/master/tutorial/Workflow_EN.md).
+
+---
+
 ## Credits
 
-本项目使用了部分开源项目作为加载本地化文件的载体，向以下项目致以深切的感谢：
+This project utilizes several open-source projects as carriers for loading localization files. We extend our deepest gratitude to the following projects:
 
- - [UABEAvalonia](https://github.com/nesrak1/UABEA): 用于导入&导出游戏的文本，没有这个项目就不会有本项目；
- - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader):
- - [Microsoft Copilot](https://copilot.microsoft.com): 用于实现文本转换工具，并在工具制作后期对其进行除错与深加工；
- - [寒蝉雲墨黑（字体）](https://github.com/Warren2060/ChillYunmoGothic): 
- - [江城律动黑（字体）](https://weibo.com/1960937691/JoEPQ01Wq):
- - [霞鹜文楷 GB（字体）](https://github.com/lxgw/LxgwWenkaiGB): 
+- [UABEAvalonia](https://github.com/nesrak1/UABEA): Used for importing & exporting game texts. Without this project, our project wouldn't exist;
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader):
+- [Microsoft Copilot](https://copilot.microsoft.com): A tool for text conversion, with debugging and refinement capabilities during later stages of tool development;
+- [Chill Yunmo Gothic (Font)](https://github.com/Warren2060/ChillYunmoGothic): 
+- [Jiangcheng Rhythm Gothic (Font)](https://weibo.com/1960937691/JoEPQ01Wq):
+- [Lxgw WenKai GB (Font)](https://github.com/lxgw/LxgwWenkaiGB):
