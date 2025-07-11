@@ -22,7 +22,7 @@ Meanwhile, this project will also release the Chinese localization patch on the 
 
 ## Workflow
 
-For details, refer to [Workflow](https://github.com/Kanadeforever/FantasianND_TrWorkflow/tree/master/tutorial/Workflow_EN.md).
+For details, refer to [Workflow](https://github.com/Kanadeforever/FantasianND_TrWorkflow/blob/main/tutorial/Workflow_EN.md).
 
 ---
 
@@ -31,8 +31,8 @@ For details, refer to [Workflow](https://github.com/Kanadeforever/FantasianND_Tr
 This project utilizes several open-source projects as carriers for loading localization files. We extend our deepest gratitude to the following projects:
 
 - [UABEAvalonia](https://github.com/nesrak1/UABEA): Used for importing & exporting game texts. Without this project, our project wouldn't exist;
-- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader):
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader): To isolate the game's localization files from the main game files, avoiding the need to reinstall the game due to official updates;
 - [Microsoft Copilot](https://copilot.microsoft.com): A tool for text conversion, with debugging and refinement capabilities during later stages of tool development;
-- [Chill Yunmo Gothic (Font)](https://github.com/Warren2060/ChillYunmoGothic): 
-- [Jiangcheng Rhythm Gothic (Font)](https://weibo.com/1960937691/JoEPQ01Wq):
-- [Lxgw WenKai GB (Font)](https://github.com/lxgw/LxgwWenkaiGB):
+- [Chill Yunmo Gothic (Font)](https://github.com/Warren2060/ChillYunmoGothic): Used to replace font display in the game (for Simplified Chinese).
+- [Jiangcheng Rhythm Gothic (Font)](https://weibo.com/1960937691/JoEPQ01Wq): Used to replace font display in the game (for Simplified Chinese).
+- [Lxgw WenKai GB (Font)](https://github.com/lxgw/LxgwWenkaiGB): Used to replace font display in the game (for Simplified Chinese).
