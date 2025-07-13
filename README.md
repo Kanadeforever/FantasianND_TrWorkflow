@@ -37,6 +37,8 @@
  - [江城律动黑（字体）](https://weibo.com/1960937691/JoEPQ01Wq): 用于替换游戏中的字体显示；
  - [霞鹜文楷 GB（字体）](https://github.com/lxgw/LxgwWenkaiGB): 用于替换游戏中的字体显示。
 
+---
+
 ## 效果图
 
 <img src="image/pic_01.jpg" width="100%">
