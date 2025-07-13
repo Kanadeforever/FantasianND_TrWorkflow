@@ -22,7 +22,7 @@ Meanwhile, this project will also release the Chinese localization patch on the 
 
 ## Workflow
 
-For details, refer to [Workflow](https://github.com/Kanadeforever/FantasianND_TrWorkflow/blob/main/tutorial/Workflow_EN.md).
+For details, refer to [Workflow](tutorial/Workflow_EN.md).
 
 ---
 
