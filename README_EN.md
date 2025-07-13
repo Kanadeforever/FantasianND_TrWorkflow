@@ -37,6 +37,8 @@ This project utilizes several open-source projects as carriers for loading local
 - [Jiangcheng Rhythm Gothic (Font)](https://weibo.com/1960937691/JoEPQ01Wq): Used to replace font display in the game (for Simplified Chinese).
 - [Lxgw WenKai GB (Font)](https://github.com/lxgw/LxgwWenkaiGB): Used to replace font display in the game (for Simplified Chinese).
 
+---
+
 ## Picture
 
 <img src="image/pic_01.jpg" width="100%">
