@@ -2,7 +2,7 @@
 
 <div align="center">
 
-简体中文 | [ENGLISH](https://github.com/Kanadeforever/FantasianND_TrWorkflow/blob/main/README_EN.md)
+简体中文 | [ENGLISH](README_EN.md)
 
 本项目为《FANTASIAN Neo Dimension》的本地化翻译流程梳理。
 为喜欢这个游戏、苦于无法导入导出文本翻译的朋友提供一个参考方案。
