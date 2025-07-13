@@ -22,7 +22,7 @@
 
 ## 工作流程
 
-详情参见 [Workflow](https://github.com/Kanadeforever/FantasianND_TrWorkflow/blob/main/tutorial/Workflow_CN.md) 。
+详情参见 [Workflow](tutorial/Workflow_CN.md) 。
 
 ---
 
