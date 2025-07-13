@@ -26,7 +26,7 @@
 
 ---
 
-## Credits
+## 致谢
 
 本项目使用了部分开源项目作为加载本地化文件的载体，向以下项目致以深切的感谢：
 
@@ -36,3 +36,27 @@
  - [寒蝉雲墨黑（字体）](https://github.com/Warren2060/ChillYunmoGothic): 用于替换游戏中的字体显示；
  - [江城律动黑（字体）](https://weibo.com/1960937691/JoEPQ01Wq): 用于替换游戏中的字体显示；
  - [霞鹜文楷 GB（字体）](https://github.com/lxgw/LxgwWenkaiGB): 用于替换游戏中的字体显示。
+
+## 效果图
+
+<img src="image/pic_01.jpg" width="100%">
+
+<img src="image/pic_02.jpg" width="100%">
+
+<img src="image/pic_03.jpg" width="100%">
+
+<img src="image/pic_04.jpg" width="100%">
+
+<img src="image/pic_05.jpg" width="100%">
+
+<img src="image/pic_06.jpg" width="100%">
+
+<img src="image/pic_07.jpg" width="100%">
+
+<img src="image/pic_08.jpg" width="100%">
+
+<img src="image/pic_09.jpg" width="100%">
+
+<img src="image/pic_10.jpg" width="100%">
+
+<img src="image/pic_11.jpg" width="100%">
