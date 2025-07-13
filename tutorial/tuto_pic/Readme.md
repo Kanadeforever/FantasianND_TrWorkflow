@@ -6,4 +6,4 @@
 
 # Description
 
-Place the images used in the workflow documentation here.
+This is where the images used in the workflow documentation are stored.
