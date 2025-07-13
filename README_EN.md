@@ -36,3 +36,27 @@ This project utilizes several open-source projects as carriers for loading local
 - [Chill Yunmo Gothic (Font)](https://github.com/Warren2060/ChillYunmoGothic): Used to replace font display in the game (for Simplified Chinese).
 - [Jiangcheng Rhythm Gothic (Font)](https://weibo.com/1960937691/JoEPQ01Wq): Used to replace font display in the game (for Simplified Chinese).
 - [Lxgw WenKai GB (Font)](https://github.com/lxgw/LxgwWenkaiGB): Used to replace font display in the game (for Simplified Chinese).
+
+## Picture
+
+<img src="image/pic_01.jpg" width="100%">
+
+<img src="image/pic_02.jpg" width="100%">
+
+<img src="image/pic_03.jpg" width="100%">
+
+<img src="image/pic_04.jpg" width="100%">
+
+<img src="image/pic_05.jpg" width="100%">
+
+<img src="image/pic_06.jpg" width="100%">
+
+<img src="image/pic_07.jpg" width="100%">
+
+<img src="image/pic_08.jpg" width="100%">
+
+<img src="image/pic_09.jpg" width="100%">
+
+<img src="image/pic_10.jpg" width="100%">
+
+<img src="image/pic_11.jpg" width="100%">
