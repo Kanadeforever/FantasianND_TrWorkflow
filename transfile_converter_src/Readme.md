@@ -14,7 +14,7 @@
 
 ## [process_csv.py](process_csv.py)
 
-用于预处理从 `ParaTranz` 下载回翻译好的csv文件，作用是删除原文列后，追加原本的表头，以简化工作流程。
+用于预处理从 `ParaTranz` 下载回翻译好的csv文件，作用是删除原文列后，追加原本的表头、修复格式编码与换行符问题，以简化工作流程。
 
 - 用法:
   - `python process_csv.py [your download csv file]`
@@ -39,7 +39,8 @@ Source code of the `replace_json_newlines.exe` file.
 
 ## [process_csv.py](process_csv.py)
 
-Used to preprocess the CSV files downloaded from `ParaTranz`, removing the source text column and appending the original headers to streamline the workflow.
+Used to pre-process the translated csv files downloaded from `ParaTranz`. Its function is to delete the original columns, append the original headers, and fix format encoding and line break issues to simplify the workflow.
+
 
 - usage:
   - `python process_csv.py [your download csv file]`
