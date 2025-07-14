@@ -1,3 +1,5 @@
+Translated from Microsoft Copilot
+
 # 0. Before Starting
 
 **Some important notes about this method:**
