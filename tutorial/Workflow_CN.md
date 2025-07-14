@@ -21,7 +21,7 @@
 
 参考图片：
 
-<img src="tutorial/tuto_pic/tuto_pic_001.jpg" width="100%">
+ <div align=center><img src="tuto_pic/tuto_pic_001.jpg" width="50%"></div>
 
 > **游戏字体文件所在目录**
 > 
@@ -31,9 +31,9 @@
 
 参考图片：
 
-<img src="tutorial/tuto_pic/tuto_pic_002.jpg" width="100%">
+ <div align=center><img src="tuto_pic/tuto_pic_002.jpg" width="50%"></div>
 
-<img src="tutorial/tuto_pic/tuto_pic_003.jpg" width="100%">
+ <div align=center><img src="tuto_pic/tuto_pic_003.jpg" width="50%"></div>
 
 **文件：**
 
