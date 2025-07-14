@@ -21,6 +21,8 @@
   - 举例: `python process_csv.py translated.csv`
   - 举例: `python process_csv.py E:\Desktop\translated.csv`
 
+如果希望编译成exe文件后直接拖拽csv到exe上使用，那么使用 `pyinstaller -F process_csv.py` 指令编译成exe可执行文件即可（请自行安装依赖，或使用 `venv` 指令构建虚拟环境编译）。
+
 ---
 
 # Description
@@ -46,3 +48,5 @@ Used to pre-process the translated csv files downloaded from `ParaTranz`. Its fu
   - `python process_csv.py [your download csv file]`
   - e.g. `python process_csv.py translated.csv`
   - e.g. `python process_csv.py E:\Desktop\translated.csv`
+
+If you want to compile it into an exe file and then directly drag the csv to the exe for use, then use the `pyinstaller -F process_csv.py` command to compile it into an exe executable file (please install the dependencies yourself, or use the `venv` command to build a virtual environment for compilation).
