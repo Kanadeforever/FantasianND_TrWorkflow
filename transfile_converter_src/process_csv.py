@@ -56,7 +56,7 @@ def detect_system_language():
         if val:
             return val.split('.')[0]  # 去掉编码后缀
 
-    # 最后尝试 locale.getlocale（fallback）
+    # 最后尝试 locale.getlocale() 作为回退
     try:
         locale.setlocale(locale.LC_CTYPE, '')
         lang, _ = locale.getlocale(locale.LC_CTYPE)
@@ -81,7 +81,9 @@ def show_message(chinese_msg, english_msg, lang_code):
 
 def process_csv(input_file, encoding, newline, lang_code):
     """
-    删除第二列并生成输出文件 input_file_done.csv，保持原编码与换行符不变。
+    删除第二列并生成输出文件 input_file_done.csv，
+    在生成内容最前面插入“key,Message,VoiceId”三列表头，
+    保持原编码与换行符不变。
     """
     base, ext = os.path.splitext(input_file)
     output_file = f"{base}_done{ext}"
@@ -93,6 +95,10 @@ def process_csv(input_file, encoding, newline, lang_code):
             reader = csv.reader(infile)
             writer = csv.writer(outfile, lineterminator=newline)
 
+            # 插入固定首行表头
+            outfile.write("key,Message,VoiceId" + newline)
+
+            # 遍历并写入剩余行（删除第二列后）
             for row in reader:
                 if len(row) > 1:
                     del row[1]
@@ -132,7 +138,7 @@ def main():
         lang_code
     )
 
-    # 处理 CSV
+    # 处理 CSV 并写入新表头
     process_csv(input_file, encoding, newline, lang_code)
 
 if __name__ == "__main__":
