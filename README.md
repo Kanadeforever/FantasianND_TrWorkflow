@@ -26,7 +26,7 @@
 
 ---
 
-## 致谢
+## 致谢（工作流）
 
 本项目使用了部分开源项目作为加载本地化文件的载体，向以下项目致以深切的感谢：
 
@@ -36,6 +36,26 @@
  - [寒蝉雲墨黑（字体）](https://github.com/Warren2060/ChillYunmoGothic): 用于替换游戏中的字体显示；
  - [江城律动黑（字体）](https://weibo.com/1960937691/JoEPQ01Wq): 用于替换游戏中的字体显示；
  - [霞鹜文楷 GB（字体）](https://github.com/lxgw/LxgwWenkaiGB): 用于替换游戏中的字体显示。
+
+---
+
+## 致谢（中文本地化）
+
+本项目使用了部分开源项目推进翻译进度，向以下项目致以深切的感谢（按使用顺序）：
+
+- [DeepSeek](https://chat.deepseek.com): 一切的基础；节省了巨大量的翻译工作，且文本质量优秀，让汉化直接进入校对流程；同时也对一些其他翻译相关工作提供了帮助；
+- [KeywordGacha](https://github.com/neavo/KeywordGacha): 构建术语集；
+- [AiNiee](https://github.com/NEKOparapa/AiNiee): 主要翻译软件；
+- [ParaTranz](https://paratranz.cn): 翻译项目承载平台；没有这个翻译效率骤降；
+
+本项目的翻译·校对人员：
+
+- [我](https://github.com/Kanadeforever): 本项目坑主、创建工作流、审校本项目等；
+- [mlna](https://paratranz.cn/users/37676): 校对文本、审校有误信息等；
+
+为本项目提供帮助的人员，向他们致以深切地感谢：
+
+- [kabpy](https://keylol.com/suid-1557057): 帮助本项目定位·解决了字体的导入导出问题。
 
 ---
 
