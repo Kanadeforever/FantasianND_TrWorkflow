@@ -16,7 +16,7 @@
 
  - [Fantasian Neo Dimension](https://store.steampowered.com/app/2844850) : 游戏本体；
  - [UABEAvalonia](https://github.com/nesrak1/UABEA): 解&封包工具；
- - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader):文件隔离工具（可选，但推荐使用）。
+ - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader): 文件隔离工具（可选，但推荐使用）。
 
 ---
 
