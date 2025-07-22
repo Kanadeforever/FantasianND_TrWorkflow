@@ -65,6 +65,8 @@ Reference images:
 >     - Controls "Main menu options", "UI titles", "Top left main menu descriptions", "Character names in outer menus"  
 >   - `1598075448_mplus-1c-heavy`  
 >     - Controls "Menu text", "UI options (excluding main menu)", "Character names in inner menus"
+>   - `1598075448_notosansjp-regular`
+>     - Controls the "dialogue bubble font" (others are not positioned, the game uses Source Han Sans by default)
 
 Once verified, proceed to the next step.
 
