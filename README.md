@@ -43,7 +43,7 @@
 
 本项目使用了部分开源项目推进翻译进度，向以下项目致以深切的感谢（按使用顺序）：
 
-- [DeepSeek](https://chat.deepseek.com): 一切的基础；节省了巨大量的翻译工作，且文本质量优秀，让汉化直接进入校对流程；同时也对一些其他翻译相关工作提供了帮助；
+- [DeepSeek](https://chat.deepseek.com): 一切的基础；节省了巨大量的翻译工作，并且译文文本质量优秀，让汉化直接进入校对流程；
 - [KeywordGacha](https://github.com/neavo/KeywordGacha): 构建术语集；
 - [AiNiee](https://github.com/NEKOparapa/AiNiee): 主要翻译软件；
 - [ParaTranz](https://paratranz.cn): 翻译项目承载平台；没有这个翻译效率骤降；
