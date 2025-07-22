@@ -57,7 +57,7 @@ Reference images:
 >     - Controls "Scene names at bottom right"  
 >   - `1598075448_notoserifjp-medium`  
 >     - Controls "Memories"
-
+>
 > - **ttf** folder:
 >   - `1598075448_mplus-1c-black`  
 >     - Controls "Top left of menu", "In-game time"  
