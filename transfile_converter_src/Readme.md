@@ -16,6 +16,9 @@
 
 用于预处理从 `ParaTranz` 下载回翻译好的csv文件，作用是删除原文列后，追加原本的表头、修复格式编码与换行符问题，以简化工作流程。
 
+- 注意:
+  - 必须安装依赖项 **chardet** : `pip install chardet`
+
 - 用法:
   - `python process_csv.py [your download csv file]`
   - 举例: `python process_csv.py translated.csv`
@@ -43,8 +46,10 @@ Source code of the `replace_json_newlines.exe` file.
 
 Used to pre-process the translated csv files downloaded from `ParaTranz`. Its function is to delete the original columns, append the original headers, and fix format encoding and line break issues to simplify the workflow.
 
+- Notice:
+  - Dependencies must be installed **chardet** : `pip install chardet`
 
-- usage:
+- Usage:
   - `python process_csv.py [your download csv file]`
   - e.g. `python process_csv.py translated.csv`
   - e.g. `python process_csv.py E:\Desktop\translated.csv`
