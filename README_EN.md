@@ -26,7 +26,7 @@ For details, refer to [Workflow](tutorial/Workflow_EN.md).
 
 ---
 
-## Credits
+## Acknowledgments
 
 This project utilizes several open-source projects as carriers for loading localization files. We extend our deepest gratitude to the following projects:
 
